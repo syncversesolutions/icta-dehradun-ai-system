@@ -1,0 +1,43 @@
+emergency_id,pilgrim_id,location_id,medical_facility_id,incident_type,response_time_minutes,outcome
+E0001,P0001,L005,M002,Chest Pain,21,Resolved
+E0002,P0016,L005,M002,Chest Pain,16,Referred
+E0003,P0060,L009,M006,Chest Pain,10,Referred
+E0004,P0066,L007,M004,Chest Pain,20,Referred
+E0005,P0071,L004,M001,Chest Pain,10,Referred
+E0006,P0083,L005,M002,Altitude,19,Referred
+E0007,P0099,L006,M003,Chest Pain,24,Resolved
+E0008,P0107,L005,M002,Slip Injury,17,Resolved
+E0009,P0112,L010,M006,Slip Injury,14,Referred
+E0010,P0114,L009,M006,Slip Injury,16,Stabilized
+E0011,P0143,L010,M002,Altitude,12,Stabilized
+E0012,P0162,L011,M002,Slip Injury,18,Referred
+E0013,P0165,L009,M006,Fatigue,16,Resolved
+E0014,P0175,L005,M002,Chest Pain,15,Referred
+E0015,P0201,L010,M001,Chest Pain,11,Referred
+E0016,P0219,L009,M006,Slip Injury,15,Resolved
+E0017,P0254,L009,M006,Slip Injury,17,Referred
+E0018,P0257,L009,M006,Slip Injury,13,Stabilized
+E0019,P0273,L007,M004,Slip Injury,18,Stabilized
+E0020,P0276,L005,M002,Altitude,14,Referred
+E0021,P0278,L009,M006,Fatigue,17,Referred
+E0022,P0282,L011,M001,Fatigue,15,Referred
+E0023,P0311,L007,M004,Fatigue,24,Resolved
+E0024,P0315,L005,M002,Fatigue,11,Stabilized
+E0025,P0327,L007,M004,Fatigue,12,Stabilized
+E0026,P0378,L011,M002,Fatigue,19,Resolved
+E0027,P0381,L005,M002,Altitude,18,Referred
+E0028,P0394,L005,M002,Altitude,18,Referred
+E0029,P0401,L005,M002,Fatigue,15,Stabilized
+E0030,P0414,L011,M004,Fatigue,20,Referred
+E0031,P0417,L007,M004,Altitude,11,Referred
+E0032,P0419,L009,M006,Altitude,16,Referred
+E0033,P0429,L011,M003,Altitude,19,Stabilized
+E0034,P0435,L009,M006,Fatigue,19,Referred
+E0035,P0441,L009,M006,Slip Injury,16,Referred
+E0036,P0458,L011,M004,Altitude,22,Resolved
+E0037,P0461,L005,M002,Chest Pain,16,Referred
+E0038,P0480,L009,M006,Chest Pain,22,Resolved
+E0039,P0488,L007,M004,Fatigue,16,Stabilized
+E0040,P0489,L007,M004,Chest Pain,14,Resolved
+E0041,P0495,L009,M006,Slip Injury,14,Resolved
+E0042,P0500,L005,M002,Fatigue,15,Resolved

@@ -1,0 +1,7 @@
+asset_id,asset_type,location_id,condition_status,max_capacity
+AS001,Bridge,L012,Good,600
+AS002,Parking,L004,Fair,300
+AS003,Shelter,L005,Good,800
+AS004,Bridge,L006,Good,500
+AS005,Road Segment,L008,Fair,450
+AS006,Parking,L010,Good,220

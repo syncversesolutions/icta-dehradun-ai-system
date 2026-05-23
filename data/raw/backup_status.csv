@@ -1,0 +1,61 @@
+calendar_date,backup_scope,backup_status
+2026-05-01,Dashboards,Success
+2026-05-01,ML Outputs,Success
+2026-05-01,Dashboards,Success
+2026-05-01,Dashboards,Success
+2026-05-02,Raw Data,Success
+2026-05-02,Dashboards,Success
+2026-05-02,Dashboards,Success
+2026-05-02,ML Outputs,Partial
+2026-05-03,Raw Data,Partial
+2026-05-03,Raw Data,Partial
+2026-05-03,Raw Data,Success
+2026-05-03,ML Outputs,Success
+2026-05-04,ML Outputs,Success
+2026-05-04,Raw Data,Success
+2026-05-04,Dashboards,Success
+2026-05-04,ML Outputs,Success
+2026-05-05,Dashboards,Success
+2026-05-05,Dashboards,Partial
+2026-05-05,Warehouse,Success
+2026-05-05,Warehouse,Success
+2026-05-06,Raw Data,Success
+2026-05-06,Raw Data,Success
+2026-05-06,Warehouse,Partial
+2026-05-06,Dashboards,Success
+2026-05-07,Warehouse,Success
+2026-05-07,Dashboards,Success
+2026-05-07,Raw Data,Success
+2026-05-07,Raw Data,Success
+2026-05-08,Dashboards,Success
+2026-05-08,Raw Data,Partial
+2026-05-08,Raw Data,Success
+2026-05-08,Warehouse,Success
+2026-05-09,Dashboards,Success
+2026-05-09,ML Outputs,Success
+2026-05-09,ML Outputs,Success
+2026-05-09,Warehouse,Success
+2026-05-10,Dashboards,Success
+2026-05-10,Dashboards,Partial
+2026-05-10,Dashboards,Partial
+2026-05-10,Dashboards,Success
+2026-05-11,Warehouse,Success
+2026-05-11,Raw Data,Success
+2026-05-11,Warehouse,Success
+2026-05-11,Raw Data,Success
+2026-05-12,Dashboards,Success
+2026-05-12,Warehouse,Partial
+2026-05-12,Raw Data,Success
+2026-05-12,ML Outputs,Success
+2026-05-13,Raw Data,Success
+2026-05-13,ML Outputs,Success
+2026-05-13,Raw Data,Partial
+2026-05-13,ML Outputs,Success
+2026-05-14,Dashboards,Success
+2026-05-14,Dashboards,Success
+2026-05-14,Dashboards,Success
+2026-05-14,Dashboards,Success
+2026-05-15,ML Outputs,Success
+2026-05-15,Raw Data,Success
+2026-05-15,ML Outputs,Partial
+2026-05-15,Dashboards,Success

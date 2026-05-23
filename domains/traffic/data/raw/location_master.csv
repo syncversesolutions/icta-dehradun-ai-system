@@ -1,0 +1,13 @@
+location_id,location_name,location_type,terrain_type,altitude_m,latitude,longitude
+L001,Haridwar,Transit Hub,plains,314,29.9457,78.1642
+L002,Rishikesh,Transit Hub,plains,372,30.0869,78.2676
+L003,Guptkashi,Base Camp,mid_hills,1319,30.5148,78.7747
+L004,Sonprayag,Base Camp,mid_hills,1829,30.6325,78.9952
+L005,Kedarnath,Temple Town,high_altitude,3583,30.7352,79.0669
+L006,Joshimath,Base Camp,mid_hills,1875,30.5554,79.5644
+L007,Badrinath,Temple Town,high_altitude,3133,30.7447,79.4932
+L008,Uttarkashi,Base Camp,mid_hills,1158,30.7298,78.443
+L009,Gangotri,Temple Town,high_altitude,3415,30.9947,78.9398
+L010,Janki Chatti,Base Camp,high_altitude,2650,31.0141,78.4603
+L011,Yamunotri,Temple Town,high_altitude,3293,31.0132,78.459
+L012,Rudraprayag,Transit Hub,mid_hills,895,30.2844,78.9811

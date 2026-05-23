@@ -1,0 +1,7 @@
+accommodation_id,accommodation_name,accommodation_type,location_id,total_rooms
+A001,Kedar Residency,hotel,L004,120
+A002,Kedar Camps,tent,L005,200
+A003,Badri Inn,hotel,L007,90
+A004,Joshi Lodge,hotel,L006,110
+A005,Gangotri Guest House,hotel,L009,60
+A006,Yamuna Base Camp,tent,L010,140

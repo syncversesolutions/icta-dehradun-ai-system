@@ -1,0 +1,8 @@
+service_issue_id,accommodation_id,calendar_date,issue_type,resolution_status
+SI0001,A002,2026-05-03,Cleanliness,Resolved
+SI0002,A003,2026-05-07,Crowd,Open
+SI0003,A003,2026-05-11,Food,Resolved
+SI0004,A004,2026-05-01,Water,Resolved
+SI0005,A004,2026-05-09,Crowd,Resolved
+SI0006,A004,2026-05-10,Water,Resolved
+SI0007,A006,2026-05-15,Delay,Resolved

@@ -1,0 +1,5 @@
+asset_id,maintenance_date,status
+AS001,2026-05-05,Completed
+AS002,2026-05-08,Scheduled
+AS003,2026-05-10,Completed
+AS004,2026-05-12,Scheduled

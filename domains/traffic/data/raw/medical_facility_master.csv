@@ -1,0 +1,7 @@
+medical_facility_id,facility_name,facility_type,location_id,bed_capacity,ambulance_count
+M001,Sonprayag PHC,clinic,L004,20,2
+M002,Kedarnath First Aid,first_aid,L005,12,4
+M003,Joshimath CHC,hospital,L006,40,6
+M004,Badrinath Medical Unit,clinic,L007,18,3
+M005,Uttarkashi District Hospital,hospital,L008,60,8
+M006,Gangotri Aid Post,first_aid,L009,10,2

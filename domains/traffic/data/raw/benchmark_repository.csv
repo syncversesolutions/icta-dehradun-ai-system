@@ -1,0 +1,4 @@
+benchmark_id,benchmark_name,department_name
+BM001,Avg crowd MAE,AI_ML
+BM002,Avg response time,Healthcare
+BM003,Occupancy accuracy,Hospitality

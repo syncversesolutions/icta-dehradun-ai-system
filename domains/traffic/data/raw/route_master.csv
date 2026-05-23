@@ -1,0 +1,9 @@
+route_id,route_name,start_location_id,end_location_id,distance_km,risk_level,avg_travel_hours
+R001,Haridwar to Sonprayag,L001,L004,220,High,8.5
+R002,Sonprayag to Kedarnath,L004,L005,18,High,4.0
+R003,Rishikesh to Joshimath,L002,L006,255,Medium,9.0
+R004,Joshimath to Badrinath,L006,L007,45,Medium,2.0
+R005,Rishikesh to Uttarkashi,L002,L008,170,Medium,6.0
+R006,Uttarkashi to Gangotri,L008,L009,100,High,4.0
+R007,Rishikesh to Janki Chatti,L002,L010,220,Medium,8.0
+R008,Janki Chatti to Yamunotri,L010,L011,6,High,2.0

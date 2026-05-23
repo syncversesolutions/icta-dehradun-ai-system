@@ -1,0 +1,4 @@
+bridge_asset_id,location_id,condition_status,max_load
+BR001,L012,Good,600
+BR002,L006,Good,500
+BR003,L008,Fair,350

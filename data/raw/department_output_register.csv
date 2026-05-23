@@ -1,0 +1,8 @@
+department_name,output_dataset,deliverable_type
+AI_ML,crowd_forecast,Prediction table
+Analytics,footfall_summary,Trend dashboard
+Healthcare,health_risk_score,Risk report
+Hospitality,occupancy_forecast,Occupancy dashboard
+Logistics,resource_optimization_output,Restock report
+Economics,tourism_revenue_summary,Revenue summary
+Environment,environmental_stress_summary,Stress report

@@ -1,0 +1,5 @@
+road_segment_id,route_id,location_id,condition_status,max_daily_capacity
+RD001,R001,L001,Good,420
+RD002,R003,L002,Fair,380
+RD003,R005,L008,Fair,260
+RD004,R007,L010,Good,180

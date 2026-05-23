@@ -1,0 +1,8 @@
+kpi_name,owner_group,kpi_type
+Pilgrim Safety Score,Healthcare + AI + Operations,Composite
+Journey Efficiency Score,Traffic + Route + GIS,Composite
+Accommodation Service Score,Hospitality,Composite
+Resource Availability Score,Logistics,Composite
+Local Economic Impact Score,Economics,Composite
+Sustainability Score,Environment,Composite
+System Reliability Score,Cyber/IT,Composite

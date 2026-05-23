@@ -1,0 +1,49 @@
+{
+    "traffic": {
+
+        "congestion_score": {
+
+            "affects": [
+
+                "crowd_management",
+                "emergency_response",
+                "route_efficiency"
+            ]
+        },
+
+        "predicted_risk_level": {
+
+            "affects": [
+
+                "alert_system",
+                "traffic_rerouting",
+                "public_safety"
+            ]
+        }
+    },
+
+    "crowd": {
+
+        "crowd_density": {
+
+            "affects": [
+
+                "traffic_flow",
+                "pilgrim_safety",
+                "queue_management"
+            ]
+        }
+    },
+
+    "health": {
+
+        "medical_incidents": {
+
+            "affects": [
+
+                "emergency_services",
+                "hospital_capacity"
+            ]
+        }
+    }
+}

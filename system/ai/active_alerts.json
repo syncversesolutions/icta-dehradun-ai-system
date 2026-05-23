@@ -1,0 +1,287 @@
+[
+    {
+        "domain": "traffic",
+        "signal_type": "high_congestion",
+        "route_id": "R004",
+        "checkpoint_name": "Badri Gate",
+        "risk_level": "High",
+        "priority": "HIGH",
+        "severity_score": 3,
+        "downstream_impacts": [
+            "alert_system",
+            "traffic_rerouting",
+            "public_safety"
+        ],
+        "recommended_action": "Increase traffic monitoring"
+    },
+    {
+        "domain": "traffic",
+        "signal_type": "high_congestion",
+        "route_id": "R007",
+        "checkpoint_name": "Janki Chatti Checkpoint",
+        "risk_level": "High",
+        "priority": "HIGH",
+        "severity_score": 3,
+        "downstream_impacts": [
+            "alert_system",
+            "traffic_rerouting",
+            "public_safety"
+        ],
+        "recommended_action": "Increase traffic monitoring"
+    },
+    {
+        "domain": "traffic",
+        "signal_type": "high_congestion",
+        "route_id": "R008",
+        "checkpoint_name": "Yamuna Trek Gate",
+        "risk_level": "High",
+        "priority": "HIGH",
+        "severity_score": 3,
+        "downstream_impacts": [
+            "alert_system",
+            "traffic_rerouting",
+            "public_safety"
+        ],
+        "recommended_action": "Increase traffic monitoring"
+    },
+    {
+        "domain": "traffic",
+        "signal_type": "high_congestion",
+        "route_id": "R001",
+        "checkpoint_name": "Sonprayag Checkpoint",
+        "risk_level": "High",
+        "priority": "HIGH",
+        "severity_score": 3,
+        "downstream_impacts": [
+            "alert_system",
+            "traffic_rerouting",
+            "public_safety"
+        ],
+        "recommended_action": "Increase traffic monitoring"
+    },
+    {
+        "domain": "traffic",
+        "signal_type": "high_congestion",
+        "route_id": "R003",
+        "checkpoint_name": "Joshimath Barrier",
+        "risk_level": "High",
+        "priority": "HIGH",
+        "severity_score": 3,
+        "downstream_impacts": [
+            "alert_system",
+            "traffic_rerouting",
+            "public_safety"
+        ],
+        "recommended_action": "Increase traffic monitoring"
+    },
+    {
+        "domain": "traffic",
+        "signal_type": "high_congestion",
+        "route_id": "R004",
+        "checkpoint_name": "Badri Gate",
+        "risk_level": "High",
+        "priority": "HIGH",
+        "severity_score": 3,
+        "downstream_impacts": [
+            "alert_system",
+            "traffic_rerouting",
+            "public_safety"
+        ],
+        "recommended_action": "Increase traffic monitoring"
+    },
+    {
+        "domain": "traffic",
+        "signal_type": "high_congestion",
+        "route_id": "R005",
+        "checkpoint_name": "Uttarkashi Checkpoint",
+        "risk_level": "High",
+        "priority": "HIGH",
+        "severity_score": 3,
+        "downstream_impacts": [
+            "alert_system",
+            "traffic_rerouting",
+            "public_safety"
+        ],
+        "recommended_action": "Increase traffic monitoring"
+    },
+    {
+        "domain": "traffic",
+        "signal_type": "high_congestion",
+        "route_id": "R007",
+        "checkpoint_name": "Janki Chatti Checkpoint",
+        "risk_level": "High",
+        "priority": "HIGH",
+        "severity_score": 3,
+        "downstream_impacts": [
+            "alert_system",
+            "traffic_rerouting",
+            "public_safety"
+        ],
+        "recommended_action": "Increase traffic monitoring"
+    },
+    {
+        "domain": "traffic",
+        "signal_type": "high_congestion",
+        "route_id": "R001",
+        "checkpoint_name": "Sonprayag Checkpoint",
+        "risk_level": "High",
+        "priority": "HIGH",
+        "severity_score": 3,
+        "downstream_impacts": [
+            "alert_system",
+            "traffic_rerouting",
+            "public_safety"
+        ],
+        "recommended_action": "Increase traffic monitoring"
+    },
+    {
+        "domain": "traffic",
+        "signal_type": "high_congestion",
+        "route_id": "R005",
+        "checkpoint_name": "Uttarkashi Checkpoint",
+        "risk_level": "High",
+        "priority": "HIGH",
+        "severity_score": 3,
+        "downstream_impacts": [
+            "alert_system",
+            "traffic_rerouting",
+            "public_safety"
+        ],
+        "recommended_action": "Increase traffic monitoring"
+    },
+    {
+        "domain": "traffic",
+        "signal_type": "high_congestion",
+        "route_id": "R007",
+        "checkpoint_name": "Janki Chatti Checkpoint",
+        "risk_level": "High",
+        "priority": "HIGH",
+        "severity_score": 3,
+        "downstream_impacts": [
+            "alert_system",
+            "traffic_rerouting",
+            "public_safety"
+        ],
+        "recommended_action": "Increase traffic monitoring"
+    },
+    {
+        "domain": "traffic",
+        "signal_type": "high_congestion",
+        "route_id": "R004",
+        "checkpoint_name": "Badri Gate",
+        "risk_level": "High",
+        "priority": "HIGH",
+        "severity_score": 3,
+        "downstream_impacts": [
+            "alert_system",
+            "traffic_rerouting",
+            "public_safety"
+        ],
+        "recommended_action": "Increase traffic monitoring"
+    },
+    {
+        "domain": "traffic",
+        "signal_type": "high_congestion",
+        "route_id": "R008",
+        "checkpoint_name": "Yamuna Trek Gate",
+        "risk_level": "High",
+        "priority": "HIGH",
+        "severity_score": 3,
+        "downstream_impacts": [
+            "alert_system",
+            "traffic_rerouting",
+            "public_safety"
+        ],
+        "recommended_action": "Increase traffic monitoring"
+    },
+    {
+        "domain": "traffic",
+        "signal_type": "high_congestion",
+        "route_id": "R004",
+        "checkpoint_name": "Badri Gate",
+        "risk_level": "High",
+        "priority": "HIGH",
+        "severity_score": 3,
+        "downstream_impacts": [
+            "alert_system",
+            "traffic_rerouting",
+            "public_safety"
+        ],
+        "recommended_action": "Increase traffic monitoring"
+    },
+    {
+        "domain": "traffic",
+        "signal_type": "high_congestion",
+        "route_id": "R002",
+        "checkpoint_name": "Kedar Trek Gate",
+        "risk_level": "High",
+        "priority": "HIGH",
+        "severity_score": 3,
+        "downstream_impacts": [
+            "alert_system",
+            "traffic_rerouting",
+            "public_safety"
+        ],
+        "recommended_action": "Increase traffic monitoring"
+    },
+    {
+        "domain": "traffic",
+        "signal_type": "high_congestion",
+        "route_id": "R004",
+        "checkpoint_name": "Badri Gate",
+        "risk_level": "High",
+        "priority": "HIGH",
+        "severity_score": 3,
+        "downstream_impacts": [
+            "alert_system",
+            "traffic_rerouting",
+            "public_safety"
+        ],
+        "recommended_action": "Increase traffic monitoring"
+    },
+    {
+        "domain": "traffic",
+        "signal_type": "high_congestion",
+        "route_id": "R008",
+        "checkpoint_name": "Yamuna Trek Gate",
+        "risk_level": "High",
+        "priority": "HIGH",
+        "severity_score": 3,
+        "downstream_impacts": [
+            "alert_system",
+            "traffic_rerouting",
+            "public_safety"
+        ],
+        "recommended_action": "Increase traffic monitoring"
+    },
+    {
+        "domain": "traffic",
+        "signal_type": "high_congestion",
+        "route_id": "R002",
+        "checkpoint_name": "Kedar Trek Gate",
+        "risk_level": "High",
+        "priority": "HIGH",
+        "severity_score": 3,
+        "downstream_impacts": [
+            "alert_system",
+            "traffic_rerouting",
+            "public_safety"
+        ],
+        "recommended_action": "Increase traffic monitoring"
+    },
+    {
+        "domain": "traffic",
+        "signal_type": "high_congestion",
+        "route_id": "R004",
+        "checkpoint_name": "Badri Gate",
+        "risk_level": "High",
+        "priority": "HIGH",
+        "severity_score": 3,
+        "downstream_impacts": [
+            "alert_system",
+            "traffic_rerouting",
+            "public_safety"
+        ],
+        "recommended_action": "Increase traffic monitoring"
+    }
+]

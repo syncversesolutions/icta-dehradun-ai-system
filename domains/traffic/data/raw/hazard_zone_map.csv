@@ -1,0 +1,5 @@
+hazard_zone_id,route_id,location_id,hazard_type,risk_level
+HZ001,R002,L005,Landslide,High
+HZ002,R004,L007,Avalanche,Medium
+HZ003,R006,L009,Rockfall,High
+HZ004,R008,L011,Flash Flood,Medium

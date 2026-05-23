@@ -1,0 +1,9 @@
+vendor_id,vendor_name,business_type,location_id,vendor_type
+V001,Kedar Foods,food,L005,Local
+V002,Badri Supplies,food,L007,Local
+V003,Gangotri Crafts,souvenir,L009,Local
+V004,Yamuna Tea Point,food,L011,Local
+V005,Joshimath Essentials,general,L006,Local
+V006,Haridwar Transporters,transport,L001,Regional
+V007,Rishikesh Logistics,water,L002,Regional
+V008,Sonprayag Stay Partners,hospitality,L004,Local

@@ -1,0 +1,61 @@
+calendar_date,route_id,checkpoint_name,vehicle_count,congestion_level,crowd_density
+2026-05-01,R001,Sonprayag Checkpoint,283,Low,3
+2026-05-01,R002,Kedar Trek Gate,166,Medium,2
+2026-05-01,R003,Joshimath Barrier,263,Low,1
+2026-05-01,R004,Badri Gate,186,High,1
+2026-05-01,R005,Uttarkashi Checkpoint,290,Low,3
+2026-05-01,R006,Gangotri Gate,133,Low,3
+2026-05-01,R007,Janki Chatti Checkpoint,318,High,1
+2026-05-01,R008,Yamuna Trek Gate,146,High,2
+2026-05-02,R001,Sonprayag Checkpoint,371,High,3
+2026-05-02,R002,Kedar Trek Gate,225,Medium,3
+2026-05-02,R003,Joshimath Barrier,361,High,2
+2026-05-02,R004,Badri Gate,216,High,2
+2026-05-02,R005,Uttarkashi Checkpoint,377,High,3
+2026-05-02,R006,Gangotri Gate,187,Low,2
+2026-05-02,R007,Janki Chatti Checkpoint,341,High,2
+2026-05-02,R008,Yamuna Trek Gate,190,Medium,1
+2026-05-03,R001,Sonprayag Checkpoint,330,High,3
+2026-05-03,R002,Kedar Trek Gate,279,Medium,2
+2026-05-03,R003,Joshimath Barrier,317,Medium,1
+2026-05-03,R004,Badri Gate,238,Medium,1
+2026-05-03,R005,Uttarkashi Checkpoint,360,High,3
+2026-05-03,R006,Gangotri Gate,218,Medium,2
+2026-05-03,R007,Janki Chatti Checkpoint,388,High,1
+2026-05-03,R008,Yamuna Trek Gate,224,Medium,1
+2026-05-04,R001,Sonprayag Checkpoint,256,Low,3
+2026-05-04,R002,Kedar Trek Gate,199,Medium,2
+2026-05-04,R003,Joshimath Barrier,277,Low,1
+2026-05-04,R004,Badri Gate,160,High,1
+2026-05-04,R005,Uttarkashi Checkpoint,262,Low,3
+2026-05-04,R006,Gangotri Gate,177,Low,2
+2026-05-04,R007,Janki Chatti Checkpoint,297,Low,2
+2026-05-04,R008,Yamuna Trek Gate,178,Medium,1
+2026-05-05,R001,Sonprayag Checkpoint,281,Low,3
+2026-05-05,R002,Kedar Trek Gate,170,Medium,3
+2026-05-05,R003,Joshimath Barrier,271,Low,2
+2026-05-05,R004,Badri Gate,157,Medium,1
+2026-05-05,R005,Uttarkashi Checkpoint,221,Low,3
+2026-05-05,R006,Gangotri Gate,197,Low,3
+2026-05-05,R007,Janki Chatti Checkpoint,288,Low,2
+2026-05-05,R008,Yamuna Trek Gate,154,High,2
+2026-05-06,R001,Sonprayag Checkpoint,241,Low,2
+2026-05-06,R002,Kedar Trek Gate,186,Medium,2
+2026-05-06,R003,Joshimath Barrier,304,Low,2
+2026-05-06,R004,Badri Gate,190,High,1
+2026-05-06,R005,Uttarkashi Checkpoint,270,Low,2
+2026-05-06,R006,Gangotri Gate,178,Low,2
+2026-05-06,R007,Janki Chatti Checkpoint,267,Medium,1
+2026-05-06,R008,Yamuna Trek Gate,180,Medium,1
+2026-05-07,R001,Sonprayag Checkpoint,304,Low,3
+2026-05-07,R002,Kedar Trek Gate,180,High,2
+2026-05-07,R003,Joshimath Barrier,267,Low,2
+2026-05-07,R004,Badri Gate,179,High,1
+2026-05-07,R005,Uttarkashi Checkpoint,278,Low,2
+2026-05-07,R006,Gangotri Gate,169,Low,2
+2026-05-07,R007,Janki Chatti Checkpoint,292,Low,1
+2026-05-07,R008,Yamuna Trek Gate,211,High,1
+2026-05-08,R001,Sonprayag Checkpoint,286,Low,3
+2026-05-08,R002,Kedar Trek Gate,195,High,2
+2026-05-08,R003,Joshimath Barrier,278,Low,1
+2026-05-08,R004,Badri Gate,155,High,1

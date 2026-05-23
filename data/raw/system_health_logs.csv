@@ -1,0 +1,61 @@
+calendar_date,service_name,uptime_pct,health_status
+2026-05-01,BigQuery,99.67,Warning
+2026-05-01,Dashboard,99.13,Warning
+2026-05-01,API,99.58,Warning
+2026-05-01,ML Service,100.43,Warning
+2026-05-02,BigQuery,99.26,Healthy
+2026-05-02,Dashboard,99.46,Healthy
+2026-05-02,API,99.0,Healthy
+2026-05-02,ML Service,99.37,Healthy
+2026-05-03,BigQuery,99.48,Healthy
+2026-05-03,Dashboard,99.38,Warning
+2026-05-03,API,98.89,Healthy
+2026-05-03,ML Service,99.38,Healthy
+2026-05-04,BigQuery,99.88,Healthy
+2026-05-04,Dashboard,99.48,Healthy
+2026-05-04,API,99.68,Healthy
+2026-05-04,ML Service,99.21,Warning
+2026-05-05,BigQuery,99.6,Warning
+2026-05-05,Dashboard,99.41,Healthy
+2026-05-05,API,98.92,Healthy
+2026-05-05,ML Service,99.43,Warning
+2026-05-06,BigQuery,98.9,Warning
+2026-05-06,Dashboard,99.05,Healthy
+2026-05-06,API,99.38,Warning
+2026-05-06,ML Service,99.42,Healthy
+2026-05-07,BigQuery,98.82,Healthy
+2026-05-07,Dashboard,99.72,Warning
+2026-05-07,API,99.53,Healthy
+2026-05-07,ML Service,99.02,Healthy
+2026-05-08,BigQuery,98.68,Warning
+2026-05-08,Dashboard,99.24,Warning
+2026-05-08,API,99.12,Warning
+2026-05-08,ML Service,99.35,Healthy
+2026-05-09,BigQuery,99.15,Healthy
+2026-05-09,Dashboard,98.5,Warning
+2026-05-09,API,99.14,Healthy
+2026-05-09,ML Service,99.18,Healthy
+2026-05-10,BigQuery,99.55,Warning
+2026-05-10,Dashboard,99.02,Healthy
+2026-05-10,API,99.97,Healthy
+2026-05-10,ML Service,98.54,Healthy
+2026-05-11,BigQuery,99.82,Warning
+2026-05-11,Dashboard,99.21,Healthy
+2026-05-11,API,99.64,Healthy
+2026-05-11,ML Service,99.33,Healthy
+2026-05-12,BigQuery,99.76,Warning
+2026-05-12,Dashboard,99.15,Warning
+2026-05-12,API,98.86,Healthy
+2026-05-12,ML Service,99.87,Warning
+2026-05-13,BigQuery,99.25,Warning
+2026-05-13,Dashboard,99.39,Warning
+2026-05-13,API,99.79,Warning
+2026-05-13,ML Service,98.89,Warning
+2026-05-14,BigQuery,99.54,Healthy
+2026-05-14,Dashboard,99.06,Healthy
+2026-05-14,API,99.25,Warning
+2026-05-14,ML Service,99.33,Healthy
+2026-05-15,BigQuery,98.7,Warning
+2026-05-15,Dashboard,98.99,Warning
+2026-05-15,API,99.84,Healthy
+2026-05-15,ML Service,99.65,Warning

@@ -1,0 +1,3 @@
+failure_id,calendar_date,asset_id,failure_type,resolution_status
+IF001,2026-05-07,AS002,Drainage,Resolved
+IF002,2026-05-11,AS005,Road Slip,Open

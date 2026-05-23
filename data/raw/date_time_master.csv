@@ -1,0 +1,16 @@
+date_id,calendar_date,day_name,is_weekend,month_name,season
+20260501,2026-05-01,Friday,False,May,Yatra
+20260502,2026-05-02,Saturday,True,May,Yatra
+20260503,2026-05-03,Sunday,True,May,Yatra
+20260504,2026-05-04,Monday,False,May,Yatra
+20260505,2026-05-05,Tuesday,False,May,Yatra
+20260506,2026-05-06,Wednesday,False,May,Yatra
+20260507,2026-05-07,Thursday,False,May,Yatra
+20260508,2026-05-08,Friday,False,May,Yatra
+20260509,2026-05-09,Saturday,True,May,Yatra
+20260510,2026-05-10,Sunday,True,May,Yatra
+20260511,2026-05-11,Monday,False,May,Yatra
+20260512,2026-05-12,Tuesday,False,May,Yatra
+20260513,2026-05-13,Wednesday,False,May,Yatra
+20260514,2026-05-14,Thursday,False,May,Yatra
+20260515,2026-05-15,Friday,False,May,Yatra

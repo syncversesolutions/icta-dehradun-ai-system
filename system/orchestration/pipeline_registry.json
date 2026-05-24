@@ -1,0 +1,34 @@
+{
+    "traffic": {
+
+        "ingestion":
+            "traffic_ingestion.ipynb",
+
+        "validation":
+            "traffic_validation.ipynb",
+
+        "kpi":
+            "traffic_kpi_engineering.ipynb",
+
+        "features":
+            "traffic_feature_engineering.ipynb",
+
+        "prediction":
+            "traffic_prediction.ipynb",
+
+        "signals":
+            "signal_generation.ipynb"
+    },
+
+    "system": {
+
+        "aggregation":
+            "aggregate.ipynb",
+
+        "impact_analysis":
+            "impact_analysis.ipynb",
+
+        "alert_tower":
+            "alert_tower.ipynb"
+    }
+}

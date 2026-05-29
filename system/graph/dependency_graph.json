@@ -1,49 +1,32 @@
 {
-    "traffic": {
+  "traffic.congestion_score": {
+    "affects": [
+      "crowd.crowd_density",
+      "health.medical_incidents",
+      "tourism.route_efficiency"
+    ]
+  },
 
-        "congestion_score": {
+  "traffic.predicted_risk_level": {
+    "affects": [
+      "system.alert_level",
+      "traffic.route_rerouting_score",
+      "governance.emergency_coordination"
+    ]
+  },
 
-            "affects": [
+  "crowd.crowd_density": {
+    "affects": [
+      "traffic.congestion_score",
+      "health.medical_incidents",
+      "tourism.queue_delay"
+    ]
+  },
 
-                "crowd_management",
-                "emergency_response",
-                "route_efficiency"
-            ]
-        },
-
-        "predicted_risk_level": {
-
-            "affects": [
-
-                "alert_system",
-                "traffic_rerouting",
-                "public_safety"
-            ]
-        }
-    },
-
-    "crowd": {
-
-        "crowd_density": {
-
-            "affects": [
-
-                "traffic_flow",
-                "pilgrim_safety",
-                "queue_management"
-            ]
-        }
-    },
-
-    "health": {
-
-        "medical_incidents": {
-
-            "affects": [
-
-                "emergency_services",
-                "hospital_capacity"
-            ]
-        }
-    }
+  "health.medical_incidents": {
+    "affects": [
+      "system.alert_level",
+      "governance.emergency_response"
+    ]
+  }
 }

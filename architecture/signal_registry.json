@@ -1,0 +1,8 @@
+{
+  "traffic": [
+    "high_congestion",
+    "low_efficiency",
+    "low_throughput",
+    "high_crowd_pressure"
+  ]
+}

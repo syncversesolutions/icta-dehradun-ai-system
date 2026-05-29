@@ -1,0 +1,9 @@
+{
+  "traffic": {
+    "congestion": [],
+    "journey_efficiency": [],
+    "throughput": [],
+    "traffic_volume": [],
+    "crowd_pressure": []
+  }
+}

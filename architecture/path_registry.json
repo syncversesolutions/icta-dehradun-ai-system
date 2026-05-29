@@ -1,0 +1,47 @@
+{
+  "project_root": "/content/drive/MyDrive/project_cd",
+
+  "config": {
+    "root": "config/"
+  },
+
+  "domains": {
+    "traffic": {
+      "raw": "domains/traffic/data/raw/",
+      "processed": "domains/traffic/data/processed/",
+      "validated": "domains/traffic/data/validated/",
+      "kpi": "domains/traffic/data/kpi/",
+      "features": "domains/traffic/data/features/",
+      "predictions": "domains/traffic/data/predictions/",
+      "signals": "domains/traffic/signals/"
+    }
+  },
+
+  "system": {
+    "graph": "system/graph/",
+    "signals": "system/signals/",
+    "state": "system/state/",
+    "ai": "system/ai/",
+    "orchestration": "system/orchestration/"
+  },
+
+  "dashboard": {
+    "root": "dashboard/"
+  },
+
+  "services": {
+    "root": "services/"
+  },
+
+  "ui": {
+    "root": "ui/"
+  },
+
+  "core": {
+    "root": "core/"
+  },
+
+  "app": {
+    "root": "app/"
+  }
+}

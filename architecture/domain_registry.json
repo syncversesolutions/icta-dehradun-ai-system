@@ -1,0 +1,49 @@
+{
+  "traffic": {
+    "status": "active",
+    "show_on_dashboard": true,
+    "priority": 1
+  },
+
+  "crowd": {
+    "status": "under_development",
+    "show_on_dashboard": false,
+    "priority": 2
+  },
+
+  "health": {
+    "status": "planned",
+    "show_on_dashboard": false,
+    "priority": 3
+  },
+
+  "tourism": {
+    "status": "planned",
+    "show_on_dashboard": false,
+    "priority": 4
+  },
+
+  "governance": {
+    "status": "planned",
+    "show_on_dashboard": false,
+    "priority": 5
+  },
+
+  "environment": {
+    "status": "planned",
+    "show_on_dashboard": false,
+    "priority": 6
+  },
+
+  "accommodation": {
+    "status": "future",
+    "show_on_dashboard": false,
+    "priority": 7
+  },
+
+  "weather": {
+    "status": "future",
+    "show_on_dashboard": false,
+    "priority": 8
+  }
+}

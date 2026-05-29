@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Runtime state
+system/state/*.json
+
+# Environment
+.env
+venv/
+
+# Logs
+logs/
+*.log
+
+# Temp
+temp/
+tmp/
+
+# ML artifacts
+models/
+artifacts/
+outputs/
+checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/

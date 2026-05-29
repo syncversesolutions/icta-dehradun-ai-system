@@ -1,16 +1,16 @@
 # =========================================================
-# ICTA DARK COMMAND CENTER THEME
+# ICTA LIGHT COMMAND CENTER THEME
 # =========================================================
-PRIMARY_BG = "#071028"
-SECONDARY_BG = "#0B1736"
-CYAN = "#00E5FF"
-BLUE = "#3B82F6"
-GREEN = "#00FFB3"
-WARNING = "#FFB020"
-CRITICAL = "#FF4D6D"
-PURPLE = "#8B5CF6"
-TEXT = "#FFFFFF"
-MUTED = "#94A3B8"
+PRIMARY_BG = "#F5F7FB"
+SECONDARY_BG = "#FFFFFF"
+CYAN = "#0891B2"
+BLUE = "#2563EB"
+GREEN = "#10B981"
+WARNING = "#F59E0B"
+CRITICAL = "#EF4444"
+PURPLE = "#7C3AED"
+TEXT = "#111827"
+MUTED = "#6B7280"
 # =========================================================
 # APPLY THEME
 # =========================================================
@@ -30,20 +30,20 @@ def apply_theme():
     section[data-testid="stSidebar"] {{
         background-color: {SECONDARY_BG};
         border-right:
-            1px solid rgba(255,255,255,0.08);
+            1px solid rgba(0,0,0,0.08);
     }}
     /* =====================================================
        METRIC CARDS
     ===================================================== */
     .metric-card {{
         background:
-            rgba(11, 23, 54, 0.95);
+            rgba(255,255,255,0.98);
         padding: 20px;
         border-radius: 16px;
         border:
-            1px solid rgba(255,255,255,0.08);
+            1px solid rgba(0,0,0,0.06);
         box-shadow:
-            0 0 20px rgba(0,229,255,0.08);
+            0 4px 12px rgba(0,0,0,0.06);
         margin-bottom: 15px;
     }}
     /* =====================================================
@@ -51,7 +51,7 @@ def apply_theme():
     ===================================================== */
     .alert-card {{
         background:
-            rgba(255,77,109,0.12);
+            rgba(239,68,68,0.08);
         padding: 16px;
         border-left:
             4px solid {CRITICAL};
@@ -63,7 +63,7 @@ def apply_theme():
     ===================================================== */
     .ai-card {{
         background:
-            rgba(139,92,246,0.12);
+            rgba(124,58,237,0.08);
         padding: 16px;
         border-left:
             4px solid {PURPLE};
@@ -71,24 +71,10 @@ def apply_theme():
         margin-bottom: 10px;
     }}
     /* =====================================================
-       SECTION HEADERS
+       HEADERS
     ===================================================== */
     h1, h2, h3, h4 {{
         color: {TEXT};
-    }}
-    /* =====================================================
-       DATAFRAMES
-    ===================================================== */
-    .stDataFrame {{
-        background:
-            rgba(11, 23, 54, 0.95);
-        border-radius: 12px;
-    }}
-    /* =====================================================
-       PLOTLY
-    ===================================================== */
-    .js-plotly-plot {{
-        border-radius: 12px;
     }}
     /* =====================================================
        BUTTONS
@@ -103,7 +89,7 @@ def apply_theme():
        TABS
     ===================================================== */
     button[data-baseweb="tab"] {{
-        color: white;
+        color: {TEXT};
     }}
     /* =====================================================
        SCROLLBAR
@@ -112,7 +98,7 @@ def apply_theme():
         width: 8px;
     }}
     ::-webkit-scrollbar-thumb {{
-        background: {CYAN};
+        background: {BLUE};
         border-radius: 8px;
     }}
     </style>

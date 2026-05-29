@@ -18,40 +18,41 @@ PATHS = {
 
     "traffic": {
 
-        # RAW DATA
         "raw":
             BASE_DIR +
             "/domains/traffic/data/raw/",
 
-        # INGESTED / CLEANED
         "processed":
             BASE_DIR +
             "/domains/traffic/data/processed/",
 
-        # VALIDATED DATA
         "validated":
             BASE_DIR +
             "/domains/traffic/data/validated/",
 
-        # KPI OUTPUTS
         "kpi":
             BASE_DIR +
             "/domains/traffic/data/kpi/",
 
-        # FEATURE ENGINEERING
         "features":
             BASE_DIR +
             "/domains/traffic/data/features/",
 
-        # MODEL PREDICTIONS
         "predictions":
             BASE_DIR +
             "/domains/traffic/data/predictions/",
 
-        # SIGNALS
         "signals":
             BASE_DIR +
-            "/domains/traffic/signals/"
+            "/domains/traffic/signals/",
+
+        "modules":
+            BASE_DIR +
+            "/domains/traffic/modules/",
+
+        "pipelines":
+            BASE_DIR +
+            "/domains/traffic/pipelines/"
     },
 
     # =====================================================
@@ -230,35 +231,265 @@ PATHS = {
     },
 
     # =====================================================
+    # ACCOMMODATION DOMAIN
+    # =====================================================
+
+    "accommodation": {
+
+        "raw":
+            BASE_DIR +
+            "/domains/accommodation/data/raw/",
+
+        "processed":
+            BASE_DIR +
+            "/domains/accommodation/data/processed/",
+
+        "validated":
+            BASE_DIR +
+            "/domains/accommodation/data/validated/",
+
+        "kpi":
+            BASE_DIR +
+            "/domains/accommodation/data/kpi/",
+
+        "features":
+            BASE_DIR +
+            "/domains/accommodation/data/features/",
+
+        "predictions":
+            BASE_DIR +
+            "/domains/accommodation/data/predictions/",
+
+        "signals":
+            BASE_DIR +
+            "/domains/accommodation/signals/"
+    },
+
+    # =====================================================
+    # WEATHER DOMAIN
+    # =====================================================
+
+    "weather": {
+
+        "raw":
+            BASE_DIR +
+            "/domains/weather/data/raw/",
+
+        "processed":
+            BASE_DIR +
+            "/domains/weather/data/processed/",
+
+        "validated":
+            BASE_DIR +
+            "/domains/weather/data/validated/",
+
+        "kpi":
+            BASE_DIR +
+            "/domains/weather/data/kpi/",
+
+        "features":
+            BASE_DIR +
+            "/domains/weather/data/features/",
+
+        "predictions":
+            BASE_DIR +
+            "/domains/weather/data/predictions/",
+
+        "signals":
+            BASE_DIR +
+            "/domains/weather/signals/"
+    },
+
+    # =====================================================
     # SYSTEM LAYER
     # =====================================================
 
     "system": {
 
-        # GLOBAL SIGNALS
         "signals":
             BASE_DIR +
             "/system/signals/",
 
-        # DEPENDENCY GRAPH
         "graph":
             BASE_DIR +
             "/system/graph/",
 
-        # PIPELINE STATE
         "state":
             BASE_DIR +
             "/system/state/",
 
-        # AI LAYER
         "ai":
             BASE_DIR +
             "/system/ai/",
 
-        # ORCHESTRATION
         "orchestration":
             BASE_DIR +
-            "/system/orchestration/"
+            "/system/orchestration/",
+
+        "events":
+            BASE_DIR +
+            "/system/events/"
+    },
+
+    # =====================================================
+    # APP LAYER
+    # =====================================================
+
+    "app": {
+
+        "root":
+            BASE_DIR +
+            "/app/"
+    },
+
+    # =====================================================
+    # CORE LAYER
+    # =====================================================
+
+    "core": {
+
+        "config":
+            BASE_DIR +
+            "/core/config/",
+
+        "routing":
+            BASE_DIR +
+            "/core/routing/",
+
+        "state":
+            BASE_DIR +
+            "/core/state/",
+
+        "realtime":
+            BASE_DIR +
+            "/core/realtime/"
+    },
+
+    # =====================================================
+    # UI LAYER
+    # =====================================================
+
+    "ui": {
+
+        "themes":
+            BASE_DIR +
+            "/ui/themes/",
+
+        "layout":
+            BASE_DIR +
+            "/ui/layout/",
+
+        "cards":
+            BASE_DIR +
+            "/ui/cards/",
+
+        "charts":
+            BASE_DIR +
+            "/ui/charts/",
+
+        "maps":
+            BASE_DIR +
+            "/ui/maps/"
+    },
+
+    # =====================================================
+    # DASHBOARD LAYER
+    # =====================================================
+
+    "dashboards": {
+
+        "overview":
+            BASE_DIR +
+            "/dashboards/overview/",
+
+        "traffic":
+            BASE_DIR +
+            "/dashboards/traffic/",
+
+        "crowd":
+            BASE_DIR +
+            "/dashboards/crowd/",
+
+        "accommodation":
+            BASE_DIR +
+            "/dashboards/accommodation/",
+
+        "predictions":
+            BASE_DIR +
+            "/dashboards/predictions/",
+
+        "ai_ops":
+            BASE_DIR +
+            "/dashboards/ai_ops/"
+    },
+
+    # =====================================================
+    # SERVICES LAYER
+    # =====================================================
+
+    "services": {
+
+        "signals":
+            BASE_DIR +
+            "/services/signals/",
+
+        "alerts":
+            BASE_DIR +
+            "/services/alerts/",
+
+        "aggregation":
+            BASE_DIR +
+            "/services/aggregation/",
+
+        "orchestration":
+            BASE_DIR +
+            "/services/orchestration/"
+    },
+
+    # =====================================================
+    # AI LAYER
+    # =====================================================
+
+    "ai": {
+
+        "recommendation":
+            BASE_DIR +
+            "/ai/recommendation/",
+
+        "reasoning":
+            BASE_DIR +
+            "/ai/reasoning/",
+
+        "prediction":
+            BASE_DIR +
+            "/ai/prediction/",
+
+        "simulation":
+            BASE_DIR +
+            "/ai/simulation/"
+    },
+
+    # =====================================================
+    # ASSETS
+    # =====================================================
+
+    "assets": {
+
+        "icons":
+            BASE_DIR +
+            "/assets/icons/",
+
+        "logos":
+            BASE_DIR +
+            "/assets/logos/",
+
+        "backgrounds":
+            BASE_DIR +
+            "/assets/backgrounds/",
+
+        "lottie":
+            BASE_DIR +
+            "/assets/lottie/"
     }
 }
 
@@ -266,9 +497,9 @@ PATHS = {
 # AUTO-CREATE DIRECTORIES
 # ============================================
 
-for domain in PATHS.values():
+for section in PATHS.values():
 
-    for path in domain.values():
+    for path in section.values():
 
         os.makedirs(path, exist_ok=True)
 

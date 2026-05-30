@@ -9,11 +9,7 @@
             "predicted_score": 3.084250116098573,
             "recommended_action": "Increase traffic monitoring"
         },
-        "downstream_impacts": [
-            "alert_system",
-            "traffic_rerouting",
-            "public_safety"
-        ]
+        "downstream_impacts": []
     },
     {
         "signal": {
@@ -25,11 +21,7 @@
             "predicted_score": 2.6826139430216083,
             "recommended_action": "Increase traffic monitoring"
         },
-        "downstream_impacts": [
-            "alert_system",
-            "traffic_rerouting",
-            "public_safety"
-        ]
+        "downstream_impacts": []
     },
     {
         "signal": {
@@ -41,11 +33,7 @@
             "predicted_score": 2.937190948622169,
             "recommended_action": "Increase traffic monitoring"
         },
-        "downstream_impacts": [
-            "alert_system",
-            "traffic_rerouting",
-            "public_safety"
-        ]
+        "downstream_impacts": []
     },
     {
         "signal": {
@@ -57,11 +45,7 @@
             "predicted_score": 2.9478494410071043,
             "recommended_action": "Increase traffic monitoring"
         },
-        "downstream_impacts": [
-            "alert_system",
-            "traffic_rerouting",
-            "public_safety"
-        ]
+        "downstream_impacts": []
     },
     {
         "signal": {
@@ -73,11 +57,7 @@
             "predicted_score": 2.9016769797248303,
             "recommended_action": "Increase traffic monitoring"
         },
-        "downstream_impacts": [
-            "alert_system",
-            "traffic_rerouting",
-            "public_safety"
-        ]
+        "downstream_impacts": []
     },
     {
         "signal": {
@@ -89,11 +69,7 @@
             "predicted_score": 3.3142696593793675,
             "recommended_action": "Increase traffic monitoring"
         },
-        "downstream_impacts": [
-            "alert_system",
-            "traffic_rerouting",
-            "public_safety"
-        ]
+        "downstream_impacts": []
     },
     {
         "signal": {
@@ -105,11 +81,7 @@
             "predicted_score": 2.936795886240378,
             "recommended_action": "Increase traffic monitoring"
         },
-        "downstream_impacts": [
-            "alert_system",
-            "traffic_rerouting",
-            "public_safety"
-        ]
+        "downstream_impacts": []
     },
     {
         "signal": {
@@ -121,11 +93,7 @@
             "predicted_score": 2.958586314849595,
             "recommended_action": "Increase traffic monitoring"
         },
-        "downstream_impacts": [
-            "alert_system",
-            "traffic_rerouting",
-            "public_safety"
-        ]
+        "downstream_impacts": []
     },
     {
         "signal": {
@@ -137,11 +105,7 @@
             "predicted_score": 3.010159452360732,
             "recommended_action": "Increase traffic monitoring"
         },
-        "downstream_impacts": [
-            "alert_system",
-            "traffic_rerouting",
-            "public_safety"
-        ]
+        "downstream_impacts": []
     },
     {
         "signal": {
@@ -153,11 +117,7 @@
             "predicted_score": 2.9548916785270976,
             "recommended_action": "Increase traffic monitoring"
         },
-        "downstream_impacts": [
-            "alert_system",
-            "traffic_rerouting",
-            "public_safety"
-        ]
+        "downstream_impacts": []
     },
     {
         "signal": {
@@ -169,11 +129,7 @@
             "predicted_score": 3.0326638341677805,
             "recommended_action": "Increase traffic monitoring"
         },
-        "downstream_impacts": [
-            "alert_system",
-            "traffic_rerouting",
-            "public_safety"
-        ]
+        "downstream_impacts": []
     },
     {
         "signal": {
@@ -185,11 +141,7 @@
             "predicted_score": 3.2162507229442987,
             "recommended_action": "Increase traffic monitoring"
         },
-        "downstream_impacts": [
-            "alert_system",
-            "traffic_rerouting",
-            "public_safety"
-        ]
+        "downstream_impacts": []
     },
     {
         "signal": {
@@ -201,11 +153,7 @@
             "predicted_score": 2.95409505322928,
             "recommended_action": "Increase traffic monitoring"
         },
-        "downstream_impacts": [
-            "alert_system",
-            "traffic_rerouting",
-            "public_safety"
-        ]
+        "downstream_impacts": []
     },
     {
         "signal": {
@@ -217,11 +165,7 @@
             "predicted_score": 3.098524548746372,
             "recommended_action": "Increase traffic monitoring"
         },
-        "downstream_impacts": [
-            "alert_system",
-            "traffic_rerouting",
-            "public_safety"
-        ]
+        "downstream_impacts": []
     },
     {
         "signal": {
@@ -233,11 +177,7 @@
             "predicted_score": 2.853667691795742,
             "recommended_action": "Increase traffic monitoring"
         },
-        "downstream_impacts": [
-            "alert_system",
-            "traffic_rerouting",
-            "public_safety"
-        ]
+        "downstream_impacts": []
     },
     {
         "signal": {
@@ -249,11 +189,7 @@
             "predicted_score": 3.118771616950448,
             "recommended_action": "Increase traffic monitoring"
         },
-        "downstream_impacts": [
-            "alert_system",
-            "traffic_rerouting",
-            "public_safety"
-        ]
+        "downstream_impacts": []
     },
     {
         "signal": {
@@ -265,11 +201,7 @@
             "predicted_score": 3.021405271962092,
             "recommended_action": "Increase traffic monitoring"
         },
-        "downstream_impacts": [
-            "alert_system",
-            "traffic_rerouting",
-            "public_safety"
-        ]
+        "downstream_impacts": []
     },
     {
         "signal": {
@@ -281,11 +213,7 @@
             "predicted_score": 2.797763077566498,
             "recommended_action": "Increase traffic monitoring"
         },
-        "downstream_impacts": [
-            "alert_system",
-            "traffic_rerouting",
-            "public_safety"
-        ]
+        "downstream_impacts": []
     },
     {
         "signal": {
@@ -297,10 +225,6 @@
             "predicted_score": 3.178573762806041,
             "recommended_action": "Increase traffic monitoring"
         },
-        "downstream_impacts": [
-            "alert_system",
-            "traffic_rerouting",
-            "public_safety"
-        ]
+        "downstream_impacts": []
     }
 ]

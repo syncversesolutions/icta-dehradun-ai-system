@@ -84,14 +84,55 @@ class StateManager:
 
     def load_state(self):
 
-        with open(
-            self.state_path,
-            "r"
-        ) as f:
+      with open(
+        self.state_path,
+        "r"
+      ) as f:
 
-            state = json.load(f)
+        state = json.load(f)
 
-        return state
+      # ====================================
+      # REQUIRED STATE SCHEMA
+      # ====================================
+
+      required_keys = {
+
+          "system_status":
+              "normal",
+
+          "active_alerts":
+              [],
+
+          "critical_domains":
+              [],
+
+          "last_signal":
+              None,
+
+          "last_orchestration":
+              None,
+
+          "risk_level":
+              "low",
+
+          "event_history_count":
+              0,
+
+          "updated_at":
+              str(datetime.now())
+      }
+
+      # ====================================
+      # SCHEMA HARDENING
+      # ====================================
+
+      for key, default in required_keys.items():
+
+          if key not in state:
+
+              state[key] = default
+
+      return state
 
     # ========================================
     # SAVE STATE

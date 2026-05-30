@@ -2,15 +2,15 @@ import json
 
 from datetime import datetime
 
-from system.orchestration.impact_engine import (
+from system.orchestration.modules.analysis.impact_engine import (
     ImpactEngine
 )
 
-from system.orchestration.alert_engine import (
+from system.orchestration.modules.alerts.alert_engine import (
     AlertEngine
 )
 
-from system.state.state_manager import (
+from system.state.modules.manager.state_manager import (
     StateManager
 )
 

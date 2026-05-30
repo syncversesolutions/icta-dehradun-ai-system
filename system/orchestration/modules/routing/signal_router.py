@@ -4,7 +4,7 @@ from pathlib import Path
 
 from config.paths import BASE_DIR
 
-from system.orchestration.orchestration_manager import (
+from system.orchestration.modules.coordination.orchestration_manager import (
     OrchestrationManager
 )
 

@@ -4,5 +4,11 @@
     "low_efficiency",
     "low_throughput",
     "high_crowd_pressure"
-  ]
+  ],
+  "accommodation": [
+    "high_occupancy",
+    "overcapacity_risk",
+    "booking_surge",
+    "low_availability"
+]
 }

@@ -36,9 +36,9 @@
   },
 
   "accommodation": {
-    "status": "future",
+    "status": "under_development",
     "show_on_dashboard": false,
-    "priority": 7
+    "priority": 2
   },
 
   "weather": {

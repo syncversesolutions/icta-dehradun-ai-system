@@ -13,6 +13,17 @@ BASE_DIR = "/content/drive/MyDrive/project_cd"
 PATHS = {
 
     # =====================================================
+    # Raw Data
+    # =====================================================
+
+    "data": {
+        
+        "raw":
+          BASE_DIR +
+          "/data/raw/"
+    },
+
+    # =====================================================
     # TRAFFIC DOMAIN
     # =====================================================
 
@@ -236,34 +247,42 @@ PATHS = {
 
     "accommodation": {
 
-        "raw":
-            BASE_DIR +
-            "/domains/accommodation/data/raw/",
+    "raw":
+        BASE_DIR +
+        "/domains/accommodation/data/raw/",
 
-        "processed":
-            BASE_DIR +
-            "/domains/accommodation/data/processed/",
+    "processed":
+        BASE_DIR +
+        "/domains/accommodation/data/processed/",
 
-        "validated":
-            BASE_DIR +
-            "/domains/accommodation/data/validated/",
+    "validated":
+        BASE_DIR +
+        "/domains/accommodation/data/validated/",
 
-        "kpi":
-            BASE_DIR +
-            "/domains/accommodation/data/kpi/",
+    "kpi":
+        BASE_DIR +
+        "/domains/accommodation/data/kpi/",
 
-        "features":
-            BASE_DIR +
-            "/domains/accommodation/data/features/",
+    "features":
+        BASE_DIR +
+        "/domains/accommodation/data/features/",
 
-        "predictions":
-            BASE_DIR +
-            "/domains/accommodation/data/predictions/",
+    "predictions":
+        BASE_DIR +
+        "/domains/accommodation/data/predictions/",
 
-        "signals":
-            BASE_DIR +
-            "/domains/accommodation/signals/"
-    },
+    "signals":
+        BASE_DIR +
+        "/domains/accommodation/signals/",
+
+    "modules":
+        BASE_DIR +
+        "/domains/accommodation/modules/",
+
+    "pipelines":
+        BASE_DIR +
+        "/domains/accommodation/pipelines/"
+},
 
     # =====================================================
     # WEATHER DOMAIN
@@ -328,7 +347,8 @@ PATHS = {
 
         "events":
             BASE_DIR +
-            "/system/events/"
+            "/system/events/",
+
     },
 
     # =====================================================

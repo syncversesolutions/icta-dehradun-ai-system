@@ -20,6 +20,27 @@
             "signal_generation.ipynb"
     },
 
+    "accommodation": {
+
+        "ingestion":
+            "accommodation_ingestion.ipynb",
+
+        "validation":
+            "accommodation_validation.ipynb",
+
+        "kpi":
+            "accommodation_kpi_engineering.ipynb",
+
+        "features":
+            "accommodation_feature_engineering.ipynb",
+
+        "prediction":
+            "accommodation_prediction.ipynb",
+
+        "signals":
+            "accommodation_signal_generation.ipynb"
+    },
+
     "system": {
 
         "aggregation":

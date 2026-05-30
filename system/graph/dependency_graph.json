@@ -14,6 +14,14 @@
       "governance.emergency_coordination"
     ]
   },
+  
+  "accommodation.occupancy_rate": {
+    "affects": [
+        "traffic.congestion_score",
+        "crowd.crowd_density",
+        "tourism.local_revenue"
+    ]
+},
 
   "crowd.crowd_density": {
     "affects": [

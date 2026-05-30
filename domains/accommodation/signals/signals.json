@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "accommodation",
+        "signal": "high_occupancy",
+        "value": 0.6129779541446209,
+        "threshold": 0.85,
+        "status": "critical",
+        "timestamp": "2026-05-29 21:45:09.363633"
+    },
+    {
+        "domain": "accommodation",
+        "signal": "overcapacity_risk",
+        "value": 0.0,
+        "threshold": 0.9,
+        "status": "normal",
+        "timestamp": "2026-05-29 21:45:09.363784"
+    },
+    {
+        "domain": "accommodation",
+        "signal": "booking_surge",
+        "value": 0.0,
+        "threshold": 50,
+        "status": "normal",
+        "timestamp": "2026-05-29 21:45:09.363858"
+    },
+    {
+        "domain": "accommodation",
+        "signal": "high_checkin_flow",
+        "value": 0.0,
+        "threshold": 40,
+        "status": "normal",
+        "timestamp": "2026-05-29 21:45:09.363931"
+    }
+]

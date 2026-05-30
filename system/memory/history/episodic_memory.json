@@ -1,0 +1,8 @@
+[
+    {
+        "signal": "accommodation.occupancy_rate",
+        "workflow": "adaptive_response",
+        "outcome": "traffic congestion reduced",
+        "timestamp": "2026-05-30 05:51:02.066934"
+    }
+]
